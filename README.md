@@ -51,8 +51,8 @@ Clone this repository and run `gesture_mouse_setup.py`. It will automatically cr
 
 ```bash
 # Clone the repository
-git clone [https://github.com/SdheroPro/Gesture-Mouse.git](https://github.com/SdheroPro/Gesture-Mouse.git)
-cd Gesture-Mouse
+git clone https://github.com/SdheroPro/hand-tracking-mouse.git
+cd hand-tracking-mouse
 
 # Run setup & launch app
 python gesture_mouse_setup.py
